@@ -6,7 +6,7 @@ import java.util.Set;
 
 public interface OwnerService {
 
-    //Owner Service
+    //Owner Service Done
     Owner findByName(String name);
 
     Owner findById(Long id);
