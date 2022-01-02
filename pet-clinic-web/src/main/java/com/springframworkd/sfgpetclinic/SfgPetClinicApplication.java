@@ -6,9 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SfgPetClinicApplication {
 
-    // testing tool
-    // another testing1
-    // welcome1
+    // Another welcome
     public static void main(String[] args) {
         SpringApplication.run(SfgPetClinicApplication.class, args);
     }
