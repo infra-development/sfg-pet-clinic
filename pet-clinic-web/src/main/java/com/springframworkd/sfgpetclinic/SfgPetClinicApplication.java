@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SfgPetClinicApplication {
 
-    // Good Welcome
+    // Warm Welcome
     public static void main(String[] args) {
         SpringApplication.run(SfgPetClinicApplication.class, args);
     }
